@@ -1,0 +1,53 @@
+html {
+ font-family: arial, sans-serif;
+ font-size: 14px;
+
+}
+
+
+.top-right {
+    float:right;
+}
+
+.top-left {
+    float: left;
+}
+
+.logo {   
+ 
+}
+
+#remind {
+    color:blue;
+    background: white;
+    border 0;
+    border-radius: 10px;
+    text-align: centre;
+    border-width: 0em;
+    outline-style: none;
+    height: 35px;
+}
+
+#review {
+    color: white;
+    background: blue;
+    border 0;
+    border-radius: 10px;
+    text-align: centre;
+    border-width: 0em;
+    outline-style: none; 
+    height: 35px;
+    width: 100px;
+}
+
+#privacy-reminder {
+    font-size: 35px;
+}
+
+.privacy-buttons {
+    float: right;
+}
+
+#lower-nav {
+    border-top: 1px;
+}
